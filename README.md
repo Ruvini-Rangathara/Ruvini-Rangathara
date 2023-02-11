@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/best-desktop-computer-for-programming-and-coding1619724622982369.jpg">
+<img src = "https://www.parkersoftware.com/wp-content/uploads/2017/11/code-944499_1280-1024x550.jpg">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer</h3>
 
