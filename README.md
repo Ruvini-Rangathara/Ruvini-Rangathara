@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "![image](https://user-images.githubusercontent.com/115369247/218238589-bfede8a3-e57b-47ef-9a42-3619780bc1de.png)">
+<img src = "https://image.shutterstock.com/image-photo/business-man-using-computer-hand-260nw-2059017617.jpg">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer from Sri Lanka.</h3>
 
