@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://www.parkersoftware.com/wp-content/uploads/2017/11/code-944499_1280-1024x550.jpg">
+<img src = "https://images.idgesg.net/images/article/2017/05/security-software-programmer_primary-100724510-large.jpg?auto=webp&quality=85,70">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer</h3>
 
