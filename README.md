@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<img src = "![image](https://user-images.githubusercontent.com/115369247/218238589-bfede8a3-e57b-47ef-9a42-3619780bc1de.png)">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h3 align="center">Software Engineer from Sri Lanka.</h3>
 
 - 🔭 I’m currently working on [Tuition Management System with Layered Architecture](https://github.com/Ruvini-Rangathara/1st-Layered-Project)
 
