@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img src = "https://image.shutterstock.com/image-photo/business-man-using-computer-hand-260nw-2059017617.jpg">
+<img src = "https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/best-desktop-computer-for-programming-and-coding1619724622982369.jpg">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Tuition Management System with Layered Architecture](https://github.com/Ruvini-Rangathara/1st-Layered-Project)
 
@@ -24,6 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
 
 
 
