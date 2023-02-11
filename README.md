@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://images.idgesg.net/images/article/2017/05/security-software-programmer_primary-100724510-large.jpg?auto=webp&quality=85,70">
+<img src = "https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer</h3>
 
