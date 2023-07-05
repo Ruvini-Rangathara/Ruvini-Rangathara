@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg">
+<img src = "[https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg](https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg)">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer</h3>
 
