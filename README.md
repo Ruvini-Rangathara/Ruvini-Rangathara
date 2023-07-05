@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg">
+<img src = "https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg">
 <h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
 <h3 align="center">Software Engineer</h3>
 
