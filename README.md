@@ -1,35 +1,23 @@
-### Hi there 👋
 <img src = "[https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg](https://static.pexels.com/photos/54283/pexels-photo-54283.jpeg)">
-<h1 align="center">Hi 👋, I'm Ruvini Rangathara</h1>
-<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Tuition Management System with Layered Architecture](https://github.com/Ruvini-Rangathara/1st-Layered-Project)
-
-- 🌱 I’m currently learning **Internet Technologies**
-
-- 👨‍💻 All of my projects are available at [https://ruvini-rangathara.github.io/MyProfile/](https://ruvini-rangathara.github.io/MyProfile/)
-
-- 📫 How to reach me **ruvinisubhasinghe200009@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruvini-rangathara-747756229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruvini-rangathara-747756229/" height="30" width="40" /></a>
-<a href="https://fb.com/ruvini rangathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruvini rangathara" height="30" width="40" /></a>
-<a href="https://dribbble.com/ruvinirangathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ruvinirangathara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ruvini rangathara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruvini rangathara" height="30" width="40" /></a>
-<a href="https://discord.gg/Ruvini #0658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ruvini #0658" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+# 💫 About Me:
+👋 Hey there! Welcome to my GitHub profile!<br><br>I'm Ruvini Rangathara, a passionate software engineering student with a strong interest in creating innovative and practical solutions through code. I love exploring new technologies and diving deep into the world of software development.<br><br>👨‍💻 Technical Skills:<br>- Programming Languages: Java, <br>- Web Development: HTML, CSS, JavaScript<br>- Databases: SQL<br>- Version Control: Git<br><br>📚 Education:<br>I'm currently studying Higher National Diploma at Institute Of Software Engineering (IJSE).<br><br>📫 Let's Connect:<br>I'm always open to connecting with fellow developers, discussing exciting projects, and exploring collaborative opportunities. Feel free to reach out to me via LinkedIn, and let's start a conversation!<br><br>Thanks for visiting my GitHub profile, and I look forward to connecting with you!<br><br>Happy coding! 😄
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ruvini.rangathara.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruvini-rangathara-747756229/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ruvinisubhasinghe200009) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ruvini-Rangathara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ruvini-Rangathara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvini-Rangathara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**Ruvini-Rangathara/Ruvini-Rangathara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=Ruvini-Rangathara&icon=5&color=12)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
